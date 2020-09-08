@@ -1,0 +1,33 @@
+
+[
+    {
+        "username": "Peter Brown",
+        "userImageString": "hotpng.com (3)",
+        "lastMessage": "Are you going to ride a bike today?",
+        "id": 6
+    },
+    {
+        "username": "Sarah White",
+        "userImageString": "hotpng.com (3)",
+        "lastMessage": "Wow!",
+        "id": 7
+    },
+    {
+        "username": "Melven Sandro",
+        "userImageString": "hotpng.com (3)",
+        "lastMessage": "Hello!",
+        "id": 8
+    },
+    {
+        "username": "Nike Rose",
+        "userImageString": "hotpng.com (3)",
+        "lastMessage": "Nice to meet you",
+        "id": 9
+    },
+    {
+        "username": "Andrey Velvet",
+        "userImageString": "hotpng.com (3)",
+        "lastMessage": "How much?",
+        "id": 10
+    }
+]

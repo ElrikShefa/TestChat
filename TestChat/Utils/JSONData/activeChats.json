@@ -1,0 +1,32 @@
+[
+    {
+        "username": "Bob River",
+        "userImageString": "hotpng.com (1)",
+        "lastMessage": "How are you?",
+        "id": 1
+    },
+    {
+        "username": "John Black",
+        "userImageString": "hotpng.com (2)",
+        "lastMessage": "Where are you?",
+        "id": 2
+    },
+    {
+        "username": "Misha Red",
+        "userImageString": "hotpng.com (1)",
+        "lastMessage": "Who are you?",
+        "id": 3
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "hotpng.com (2)",
+        "lastMessage": "How old are you?",
+        "id": 4
+    },
+    {
+        "username": "Robert Martin",
+        "userImageString": "hotpng.com (1)",
+        "lastMessage": "Where are we?",
+        "id": 5
+    }
+]
